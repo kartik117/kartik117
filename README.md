@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24,30&height=200&section=header&text=Hi%20there!%20I'm%20Kartik%20%F0%9F%91%8B&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Agentic%20AI%20Engineer%20%7C%20MS%20CS%20%40%20Syracuse%20University&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24,30&height=200&section=header&text=Hi%20there!%20I'm%20Kartik%20%F0%9F%91%8B&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20%Engineer%20%7C%20MS%20CS%20%40%20Syracuse%20University&descAlignY=58&descSize=18" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=Building+Agentic+AI+Systems+%F0%9F%A4%96;RAG+Pipeline+%26+LLM+Engineer+%F0%9F%94%97;AWS+Certified+AI+Practitioner+%E2%98%81%EF%B8%8F;LangGraph+%7C+LangChain+%7C+Qdrant+%7C+smolagents;Always+Learning%2C+Always+Building+%F0%9F%8C%B1" alt="Typing SVG" /></a>
 
